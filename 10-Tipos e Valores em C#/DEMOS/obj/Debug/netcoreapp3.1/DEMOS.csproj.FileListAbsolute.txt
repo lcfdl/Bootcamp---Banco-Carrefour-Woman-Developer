@@ -1,0 +1,13 @@
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\bin\Debug\netcoreapp3.1\DEMOS.exe
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\bin\Debug\netcoreapp3.1\DEMOS.deps.json
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\bin\Debug\netcoreapp3.1\DEMOS.runtimeconfig.json
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\bin\Debug\netcoreapp3.1\DEMOS.runtimeconfig.dev.json
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\bin\Debug\netcoreapp3.1\DEMOS.dll
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\bin\Debug\netcoreapp3.1\DEMOS.pdb
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\obj\Debug\netcoreapp3.1\DEMOS.csprojAssemblyReference.cache
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\obj\Debug\netcoreapp3.1\DEMOS.AssemblyInfoInputs.cache
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\obj\Debug\netcoreapp3.1\DEMOS.AssemblyInfo.cs
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\obj\Debug\netcoreapp3.1\DEMOS.csproj.CoreCompileInputs.cache
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\obj\Debug\netcoreapp3.1\DEMOS.dll
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\obj\Debug\netcoreapp3.1\DEMOS.pdb
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\DEMOS\obj\Debug\netcoreapp3.1\DEMOS.genruntimeconfig.cache
