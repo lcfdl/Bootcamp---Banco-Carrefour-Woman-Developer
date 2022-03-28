@@ -1,0 +1,13 @@
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\obj\Debug\netcoreapp3.1\Aula2.csprojAssemblyReference.cache
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\obj\Debug\netcoreapp3.1\Aula2.AssemblyInfoInputs.cache
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\obj\Debug\netcoreapp3.1\Aula2.AssemblyInfo.cs
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\obj\Debug\netcoreapp3.1\Aula2.csproj.CoreCompileInputs.cache
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\bin\Debug\netcoreapp3.1\Aula2.exe
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\bin\Debug\netcoreapp3.1\Aula2.deps.json
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\bin\Debug\netcoreapp3.1\Aula2.runtimeconfig.json
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\bin\Debug\netcoreapp3.1\Aula2.runtimeconfig.dev.json
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\bin\Debug\netcoreapp3.1\Aula2.dll
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\bin\Debug\netcoreapp3.1\Aula2.pdb
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\obj\Debug\netcoreapp3.1\Aula2.dll
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\obj\Debug\netcoreapp3.1\Aula2.pdb
+C:\workspace\Bootcamp---Banco-Carrefour-Woman-Developer\10-Tipos e Valores em C#\Aula2\obj\Debug\netcoreapp3.1\Aula2.genruntimeconfig.cache
